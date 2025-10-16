@@ -2,12 +2,12 @@
 
 <div align="center">
 
-### Lead Python Developer | Backend Architecture | Web3 & LLMs
+### Lead Python Developer | Backend Architecture | LLMs & Web3
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdles/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biagiodistefano)
-[![Website](https://img.shields.io/badge/Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biagiodistefano.io)
-[![CV](https://img.shields.io/badge/CV-764ba2?style=for-the-badge&logo=readme&logoColor=white)](https://cv.biagiodistefano.io)
+<a href="https://www.linkedin.com/in/bdles/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/biagiodistefano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://biagiodistefano.io" target="_blank"><img src="https://img.shields.io/badge/Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="https://cv.biagiodistefano.io" target="_blank"><img src="https://img.shields.io/badge/CV-764ba2?style=for-the-badge&logo=readme&logoColor=white" alt="CV"></a>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 I'm a **Lead Python Developer** with a unique journey from law to code. Originally trained as a jurist (*summa cum laude* in criminal law), I've been programming since I was 13 and eventually let coding take over my legal career.
 
-**Current Role:** Lead Backend Engineer @ [Keyring.network](https://keyring.network) — building zero-knowledge regulatory infrastructure for Web3/DLTs.
+**Current Role:** Lead Backend Engineer @ <a href="https://keyring.network" target="_blank">Keyring.network</a> — building zero-knowledge regulatory infrastructure for Web3/DLTs.
 
 **Previous Adventures:**
 - 🤖 Built production-grade **LLM** systems in commercial insurance
@@ -53,7 +53,7 @@ Technologies I operate at expert level:
 
 ## 🛠️ Featured Projects
 
-### 🎉 [Revel](https://github.com/letsrevel/revel-backend)
+### 🎉 <a href="https://github.com/letsrevel/revel-backend" target="_blank">Revel</a>
 **Open-source event management platform for LGBTQ+ communities**
 
 A privacy-focused alternative to corporate platforms like Eventbrite, built with community-first principles.
@@ -64,7 +64,7 @@ A privacy-focused alternative to corporate platforms like Eventbrite, built with
 
 ---
 
-### 📚 [Fabulor](https://github.com/biagiodistefano/fabulor)
+### 📚 <a href="https://github.com/biagiodistefano/fabulor" target="_blank">Fabulor</a>
 **AI-powered language learning through personalized bilingual stories**
 
 Learn languages by reading AI-generated stories tailored to your proficiency level (A1-C2).
@@ -75,7 +75,7 @@ Learn languages by reading AI-generated stories tailored to your proficiency lev
 
 ---
 
-### ⚙️ [Rule Engine](https://github.com/biagiodistefano/rule-engine)
+### ⚙️ <a href="https://github.com/biagiodistefano/rule-engine" target="_blank">Rule Engine</a>
 **Production-ready DSL for custom rule management in pure Python**
 
 A lightweight library for constructing and evaluating complex logical conditions.
@@ -86,7 +86,7 @@ A lightweight library for constructing and evaluating complex logical conditions
 
 ---
 
-### 🔍 [Replus](https://github.com/biagiodistefano/replus)
+### 🔍 <a href="https://github.com/biagiodistefano/replus" target="_blank">Replus</a>
 **Advanced regex pattern management wrapper**
 
 A powerful wrapper for Python's `regex` library with template-based pattern management.
@@ -190,9 +190,9 @@ A powerful wrapper for Python's `regex` library with template-based pattern mana
 ## 📫 Let's Connect
 
 - 💼 **Professional inquiries:** [biagio@biagiodistefano.io](mailto:biagio@biagiodistefano.io)
-- 🌐 **Website:** [biagiodistefano.io](https://biagiodistefano.io)
-- 📄 **Full CV:** [cv.biagiodistefano.io](https://cv.biagiodistefano.io)
-- 💬 **LinkedIn:** [linkedin.com/in/bdles](https://www.linkedin.com/in/bdles/)
+- 🌐 **Website:** <a href="https://biagiodistefano.io" target="_blank">biagiodistefano.io</a>
+- 📄 **Full CV:** <a href="https://cv.biagiodistefano.io" target="_blank">cv.biagiodistefano.io</a>
+- 💬 **LinkedIn:** <a href="https://www.linkedin.com/in/bdles/" target="_blank">linkedin.com/in/bdles</a>
 
 ---
 
@@ -200,11 +200,16 @@ A powerful wrapper for Python's `regex` library with template-based pattern mana
 
 ### 💡 Fun Fact
 
-I went from defending criminals in court to defending codebases from bugs.
-Both involve a lot of arguing, but only one has a `git blame` command.
+The world record for stone skipping is 88 consecutive skips, held by Kurt "Mountain Man" <b>Steiner</b>.
+
+The previous record was 65 skips, by Max <b>Steiner</b> (they are NOT related)
+
+Get it? *Steiner?*
+
+<a href="https://en.wikipedia.org/wiki/Stone_skipping#Records" target="_blank">Source.</a>
 
 ---
 
-*Powered by Python, Django, and an unhealthy amount of Red Bull*
+*Powered by Python and an unhealthy amount of Red Bull*
 
 </div>
