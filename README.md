@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Biagio Distefano
+# 👋 Hello there! I'm Biagio
 
 <div align="center">
 
