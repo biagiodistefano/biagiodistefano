@@ -64,6 +64,17 @@ A privacy-focused alternative to corporate platforms like Eventbrite, built with
 
 ---
 
+### 📇 [MicroCRM](https://github.com/biagiodistefano/microcrm)
+**AI-powered lead management system for event promotion**
+
+A lightweight CRM with integrated Google Gemini Deep Research for automated lead discovery.
+
+- **Stack:** Django 5.2+, Django Ninja, Celery + Redis, Google Gemini
+- **Features:** REST API, AI-powered research, historical tracking, custom dashboard
+- **Innovation:** Automated lead discovery and enrichment using Gemini Deep Research
+
+---
+
 ### 📚 <a href="https://github.com/biagiodistefano/fabulor" target="_blank">Fabulor</a>
 **AI-powered language learning through personalized bilingual stories**
 
@@ -94,17 +105,6 @@ A powerful wrapper for Python's `regex` library with template-based pattern mana
 - **Features:** JSON-based pattern templates, named groups, pattern composition
 - **Use Cases:** Legal document parsing, structured data extraction
 - **Published:** PyPI package with full documentation
-
----
-
-### 📇 [MicroCRM](https://github.com/biagiodistefano/microcrm)
-**AI-powered lead management system for event promotion**
-
-A lightweight CRM with integrated Google Gemini Deep Research for automated lead discovery.
-
-- **Stack:** Django 5.2+, Django Ninja, Celery + Redis, Google Gemini
-- **Features:** REST API, AI-powered research, historical tracking, custom dashboard
-- **Innovation:** Automated lead discovery and enrichment using Gemini Deep Research
 
 ---
 
