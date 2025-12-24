@@ -65,7 +65,7 @@ A privacy-focused alternative to corporate platforms like Eventbrite, built with
 
 ---
 
-### 📇 [MicroCRM](https://github.com/biagiodistefano/microcrm)
+### 📇 <a href="https://github.com/biagiodistefano/microcrm" target="_blank">MicroCRM</a>
 **AI-powered lead management system for event promotion**
 
 A lightweight CRM with integrated Google Gemini Deep Research for automated lead discovery.
