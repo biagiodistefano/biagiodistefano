@@ -87,7 +87,7 @@ Learn languages by reading AI-generated stories tailored to your proficiency lev
 
 ---
 
-### ⚙️ <a href="https://github.com/biagiodistefano/rule-engine" target="_blank">Rule Engine</a>
+### ⚙️ <a href="https://github.com/biagiodistefano/rule-engine" target="_blank">Rule Engine</a> · <a href="https://pypi.org/project/light-rule-engine/" target="_blank">PyPI</a>
 **Production-ready DSL for custom rule management in pure Python**
 
 A lightweight library for constructing and evaluating complex logical conditions.
