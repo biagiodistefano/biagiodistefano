@@ -17,9 +17,10 @@
 
 I'm a **Lead Python Developer** with a unique journey from law to code. Originally trained as a jurist (*summa cum laude* in criminal law), I've been programming since I was 13 and eventually let coding take over my legal career.
 
-**Current Role:** Lead Backend Engineer @ <a href="https://keyring.network" target="_blank">Keyring.network</a> — building zero-knowledge regulatory infrastructure for Web3/DLTs.
+**Current Role:** Lead Backend Engineer @ <a href="https://bonrepublic.com" target="_blank">Bonrepublic</a> — building HR software while modernizing backend architecture.
 
 **Previous Adventures:**
+- ⛓️ Led backend for **zero-knowledge regulatory infrastructure** in Web3/DLT compliance
 - 🤖 Built production-grade **LLM** systems in commercial insurance
 - 🏥 Designed **eHealth/FHIR** servers and healthcare data systems
 - ⚖️ Developed legal tech for Supreme Courts, Constitutional Courts, and Parliaments
