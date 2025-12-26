@@ -98,7 +98,7 @@ A lightweight library for constructing and evaluating complex logical conditions
 
 ---
 
-### 🔍 <a href="https://github.com/biagiodistefano/replus" target="_blank">Replus</a>
+### 🔍 <a href="https://github.com/biagiodistefano/replus" target="_blank">Replus</a> · <a href="https://pypi.org/project/replus/" target="_blank">PyPI</a>
 **Advanced regex pattern management wrapper**
 
 A powerful wrapper for Python's `regex` library with template-based pattern management.
