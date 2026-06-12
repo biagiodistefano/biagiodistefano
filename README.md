@@ -18,8 +18,8 @@
 I'm a **Lead Python Developer** with a unique journey from law to code. Originally trained as a jurist (*summa cum laude* in criminal law), I've been programming since I was 13 and eventually let coding take over my legal career.
 
 **Current Roles:**
-- Lead Engineer @ Complexio — juggling LLMs and automating everything
-- Founder, Lead Engineer @ <a href="https://letsrevel.io" target="_blank">letsrevel.io</a> — building and maintaining awesome FOSS without compromising
+- Lead Engineer @ <a href="https://complexio.com/" target="_blank">Complexio</a> — Enterprise Automations with AI
+- Founder, Lead Engineer @ <a href="https://letsrevel.io" target="_blank">letsrevel.io</a> — building and maintaining awesome FOSS without compromises
 
 **Previous Adventures:**
 - ⛓️ Led backend for **zero-knowledge regulatory infrastructure** in Web3/DLT compliance
